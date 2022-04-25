@@ -1,0 +1,23 @@
+
+
+
+
+
+
+
+Octel = Bytes = bits
+Octel = 8 bits
+
+1O = 8b
+1B = 8b
+
+0.0.0.0
+255.255.255.255
+X.X.X.X
+
+
+192.168.256.3
+
+Adress IP
+Mask
+Gateway
